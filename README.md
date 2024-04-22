@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VenessaJK
   
 - 👀 Some of my interests are!
-- - Backend Developement
+  - Backend Developement
   - Cybersecurity
   - Embedded Systems
 
