@@ -5,4 +5,4 @@
   - Cybersecurity
   - Embedded Systems
 
-- 🌱 I'm always excited to learn more and apply my skills to real world applications!
+- 🌱 I'm always excited to learn more and apply my skills in real world applications!
